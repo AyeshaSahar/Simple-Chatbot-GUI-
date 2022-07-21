@@ -80,13 +80,17 @@
         "Do you know a joke?",
         "Do you know anything other than selling?",
         "Do you know anything else, like a joke or something?",
-        "I'm not in a good mood, cheer me up?"
+        "I'm not in a good mood, cheer me up?",
+        "I wanna hear a joke!"
       ],
       "responses": [
+        "Singing in the shower is fun until you get soap in your mouth. Then it's a soap opera.",
+        "What time is it when the clock strikes 13? Time to get a new clock.",
+        "How does a cucumber become a pickle? It goes through a jarring experience.",
+        "What did one toilet say to the other? You look a bit flushed.",
         "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
         "What did the buffalo say when his son left for college? Bison.",
-        "I'm afraid for the calendar. Its days are numbered.",
-        "Singing in the shower is fun until you get soap in your mouth. Then it's a soap opera."
+        "I'm afraid for the calendar. Its days are numbered."
       ]
     }
   ]
